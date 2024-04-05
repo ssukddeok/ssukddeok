@@ -5,8 +5,8 @@
 - 📫 How to reach me kwon3rd@naver.com
 - 😄 Pronouns: cat person
 - ⚡ Fun fact: I forgot my second github password(Second Authorization code whatever), this is my third github.
-               First - @Sesamericecake, Second - @ricecakeblack
-               IF I FORGOT THIS ONE TOO, I WILL LEAVE COMPTER WORLD FOR GOOD.  
+-               First - @Sesamericecake, Second - @ricecakeblack 
+-              IF I FORGOT THIS ONE TOO, I WILL LEAVE COMPTER WORLD FOR GOOD.  
 
 <!---
 ssukddeok/ssukddeok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
