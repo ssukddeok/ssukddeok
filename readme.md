@@ -39,8 +39,7 @@
 | 강상우  | 송유창  | 신윤재  | 이유진  | 이진선  | 이진아  |
 |--------|--------|--------|--------|--------|--------|
 | ![Avatar 1](https://avatars.githubusercontent.com/u/160104734?v=4)| ![Avatar 2](https://avatars.githubusercontent.com/u/87472756?v=4)| ![Avatar 3](https://avatars.githubusercontent.com/u/140726268?v=4) | ![Avatar 4](https://avatars.githubusercontent.com/u/95261468?v=4)| ![Avatar 5](https://avatars.githubusercontent.com/u/166676809?v=4)| ![GitHub Avatar](https://avatars.githubusercontent.com/u/166089376?v=4) |
-| [Github](https://github.com/allenkang92) | [Github](https://github.com/hindernislauf) | [Github](https://github.com/yoonjaeo)| [Github](https://github.com/Developer-Yujin) | [Github](https://github.com/Jinsun577)
-| [Github](https://github.com/ssukddeok) |
+| [Github](https://github.com/allenkang92) | [Github](https://github.com/hindernislauf) | [Github](https://github.com/yoonjaeo)| [Github](https://github.com/Developer-Yujin)| [Github](https://github.com/Jinsun577)| [Github](https://github.com/ssukddeok) |
 #### repo structure : 
 #### Project Workflow 
 #### (→ 자동으로 서브 주제 생성 → 서브 주제 선택 → 최종 스크립트 생성 및 출력
