@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kwon3rd@naver.com
-- 😄 Pronouns: cat person
 - ⚡ Fun fact: I forgot my second github password(Second Authorization code whatever), this is my third github.
 -               First - @Sesamericecake, Second - @ricecakeblack 
 -  
